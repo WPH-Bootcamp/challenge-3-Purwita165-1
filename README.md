@@ -386,15 +386,15 @@ const data = JSON.parse(jsonData);
 
 ## CHECKLIST SEBELUM SUBMIT
 
-[ ] Implementasi semua 8 konsep yang diminta
-[ ] Semua 10 menu berfungsi dengan benar
-[ ] Aplikasi berjalan tanpa error
-[ ] Code memiliki komentar yang cukup
-[ ] File app.js dapat dijalankan dengan: node app.js
-[ ] Data tersimpan dan termuat dengan benar
-[ ] Reminder muncul setiap 10 detik
-[ ] While loop dan for loop terdemonstrasikan
-[ ] Nullish coalescing digunakan minimal 3 tempat
+[x] Implementasi semua 8 konsep yang diminta
+[x] Semua 10 menu berfungsi dengan benar
+[x] Aplikasi berjalan tanpa error
+[x] Code memiliki komentar yang cukup
+[x] File app.js dapat dijalankan dengan: node app.js
+[x] Data tersimpan dan termuat dengan benar
+[x] Reminder muncul setiap 10 detik
+[x] While loop dan for loop terdemonstrasikan
+[x] Nullish coalescing digunakan minimal 3 tempat
 
 ---
 

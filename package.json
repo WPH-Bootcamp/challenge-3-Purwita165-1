@@ -15,15 +15,16 @@
     "nodejs",
     "challenge-3",
     "assignment",
-    "learning"
+    "learning",
+    "purwita"
   ],
-  "author": "Your Name Here",
+  "author": "Purwita Musaffa",
   "license": "ISC",
   "engines": {
     "node": ">=14.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "your-repo-url"
+    "url": "https://github.com/WPH-Bootcamp/challenge-3-Purwita165-1"
   }
 }
